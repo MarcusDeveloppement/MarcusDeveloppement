@@ -3,7 +3,7 @@
 
 - 🛠️ I’m currently working on **developing my knowledge**
 
-- 🌱 I’m currently learning **Tailwind and Django**
+- 🌱 I’m currently learning **Angular & Spring**
 
 - 🚀 I’m looking to collaborate on **projects that can help me evolve**
 
