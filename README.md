@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">I am passionate about IT development</h3>
+<h3 align="center">I am passionate about IT network and administration</h3>
 
 - 🛠️ I’m currently working on **developing my knowledge**
 
