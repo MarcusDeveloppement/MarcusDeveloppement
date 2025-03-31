@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **marcus.frondev@gmail.com**
 
-- 📄 Know about my experiences [you can find it on my portfolio](you can find it on my portfolio)
-
 - ⚡ Fun fact **GitHub hosts much more than code: some people share cooking recipes, poems and even plan weddings there!**
 
 <h3 align="left">Connect with me:</h3>
