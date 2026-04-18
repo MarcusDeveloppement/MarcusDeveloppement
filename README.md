@@ -3,13 +3,13 @@
 
 - 🛠️ I’m currently working on **developing my knowledge**
 
-- 🌱 I’m currently learning **Windows Server**
+- 🌱 I’m currently learning **Docker**
 
 - 🚀 I’m looking to collaborate on **projects that can help me evolve**
 
 - 👨‍💻 All of my projects are available at [https://portfoliov1-f3e37.web.app/](https://portfoliov1-f3e37.web.app/)
 
-- 💬 Ask me about **Network**
+- 💬 Ask me about **Cloud**
 
 - 📫 How to reach me **marcus.frondev@gmail.com**
 
